@@ -1,6 +1,6 @@
 ---
 name: rust-execution-optimization
-description: Use when a Rust program, service, worker, CLI, or library must improve runtime latency, throughput, CPU, memory, allocation rate, I/O, contention, or capacity. Builds a representative workload, profiles before editing, chooses one bounded experiment, preserves correctness, and accepts only a statistically credible before/after improvement with production-safe rollback. Not for compile, link, or test feedback time; use rust-cycle-time for those.
+description: Use when a Rust program, service, worker, CLI, or library must improve runtime latency, throughput, CPU, memory, allocation rate, I/O, contention, or capacity. Builds a representative workload, profiles before editing, chooses one bounded experiment, preserves correctness, and accepts only a statistically credible before/after improvement with production-safe rollback. Not for compile, link, or test feedback time; use rust-cycle-optimization for those.
 ---
 
 # Rust execution optimization
